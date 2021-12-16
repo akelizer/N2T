@@ -1,0 +1,21 @@
+
+Project 6 structure / guides
+
+// project 6 summary video
+https://www.coursera.org/learn/build-a-computer/lecture/VNz4F/unit-6-6-project-6-overview-programming-option
+
+// project 6 assembler implementation video
+https://www.coursera.org/learn/build-a-computer/lecture/jPNFL/unit-6-5-developing-a-hack-assembler
+
+Elements of Computing Ch 6
+file:///C:/Users/19197/OneDrive/Documents/Nand2Terris/The_Elements_of_Computing_Systems__Buildin_-_Noam_Nisan.pdf
+
+// google doc notes for Project 6 structure / guides
+https://docs.google.com/document/d/1qY1v3ekfL_WqoC6TGKXCs--IT0tb6OpOgCgt_IYDVhE/edit
+
+
+// project 7 implementation video 
+https://www.coursera.org/learn/nand2tetris2/lecture/qmJl3/unit-1-8-vm-translator-proposed-implementation
+
+
+

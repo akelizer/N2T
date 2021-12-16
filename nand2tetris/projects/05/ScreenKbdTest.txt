@@ -1,0 +1,7 @@
+// program to test  the values of the last Screen register and the Keyboard
+
+
+@KEYBOARD
+D=M
+
+@24575
